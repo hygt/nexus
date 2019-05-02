@@ -1,7 +1,7 @@
 site_name: Blue Brain Nexus
 site_description: The open-source knowledge graph for data-driven science.
 theme:
-  name: readthedocs
+  name: material
   highlightjs: true
   hljs_languages:
     - json
